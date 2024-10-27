@@ -10,4 +10,4 @@ npm install bunny-sqlean
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/bunny-databases/sqlean/) for usage and examples.
+Please read the [docs](https://bunny-launcher.net/databases/sqlean/) for usage and examples.

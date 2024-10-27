@@ -20,7 +20,7 @@
     "sqlean.js",
     "wasm"
   ],
-  "homepage": "https://bunny-launcher.net/bunny-databases/sqlean/",
+  "homepage": "https://bunny-launcher.net/databases/sqlean/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-sqlean/issues",
   "repository": {
     "type": "git",
